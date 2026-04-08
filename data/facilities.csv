@@ -1,0 +1,11 @@
+cnes_id,name,facility_type,cnpj,municipality_code,city,state,cep,phone,email
+2078015,UBS Vila Nova,UBS - Unidade Básica de Saúde,12345678000191,355030,São Paulo,SP,01310100,(11) 3333-1001,ubs.vilanova@saude.sp.gov.br
+3456789,UPA Zona Leste,UPA - Unidade de Pronto Atendimento,23456789000102,355030,São Paulo,SP,03200000,(11) 3333-2001,upa.zonaleste@saude.sp.gov.br
+4567891,Hospital Municipal Central,Hospital Geral,34567890000113,355030,São Paulo,SP,01310200,(11) 3333-3001,hospital.central@saude.sp.gov.br
+5678902,Policlínica Bela Vista,Policlínica,45678901000124,355030,São Paulo,SP,01320000,(11) 3333-4001,policlinica.belavista@saude.sp.gov.br
+6789013,CEO Jardim América,Centro de Especialidades Odontológicas,56789012000135,355030,São Paulo,SP,01438000,(11) 3333-5001,ceo.jardinam@saude.sp.gov.br
+7890124,CAPS Adulto Pinheiros,CAPS - Centro de Atenção Psicossocial,67890123000146,355030,São Paulo,SP,05422000,(11) 3333-6001,caps.pinheiros@saude.sp.gov.br
+8901235,UBS Itaquera,UBS - Unidade Básica de Saúde,78901234000157,355030,São Paulo,SP,08230000,(11) 3333-7001,ubs.itaquera@saude.sp.gov.br
+9012346,Hospital Especializado Reabilitação,Hospital Especializado,89012345000168,355030,São Paulo,SP,04017000,(11) 3333-8001,hosp.reabilitacao@saude.sp.gov.br
+1023457,Farmácia Componente Especializado,Farmácia,90123456000179,355030,São Paulo,SP,04039000,(11) 3333-9001,farmacia.esp@saude.sp.gov.br
+1134568,UBS Santo André Centro,UBS - Unidade Básica de Saúde,01234567000180,354780,Santo André,SP,09010000,(11) 4444-1001,ubs.santoandre@saude.sp.gov.br
